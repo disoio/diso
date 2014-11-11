@@ -1,0 +1,28 @@
+{
+  "name": "diso",
+  "version": "0.0.0",
+  "description": "pending",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/disoio/diso"
+  },
+  "keywords": [
+    "diso"
+  ],
+  "author": "stephen handley",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/disoio/diso/issues"
+  },
+  "homepage": "https://github.com/disoio/diso",
+  "dependencies": {
+    "diso.core": "0.0.21",
+    "diso.mongo": "0.0.12",
+    "diso.router": "~6.0.2",
+    "diso.view": "0.0.26"
+  }
+}
